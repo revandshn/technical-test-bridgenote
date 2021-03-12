@@ -1,5 +1,5 @@
 ## About the API
-
+In this project I use AWS S3 for storage of all files including user avatars
 Here some end point :
 
 
